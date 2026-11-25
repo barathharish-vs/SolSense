@@ -39,3 +39,6 @@ env/
 
 # Extraction archive directory
 stitch_extracted/
+
+# Pytest cache
+.pytest_cache/
